@@ -12,7 +12,7 @@ A partir de 2022, intensifiquei meus estudos de linguagens e paralelamente inici
   
 ---
 
-🔮 Conhecimentos em: HTML5 / CSS3 / JS / C / C++ / Java / Dart / Flutter <br>
+🔮 Conhecimentos em: JAVA / C / Dart / FLutter / HTML5 / CSS3 / JS <br>
 <br>
 Quer falar comigo? Contate através do 📣 <strong><a href="https://www.linkedin.com/in/anacarolina-fbsilveira/" target="_blank">LinkedIn</a></strong> ou 
   📧 <strong><a href="mailto:ana.fbsilveira@gmail.com" subject="ana.fbsilveira@gmail.com"> Email </a></strong> <br> 
