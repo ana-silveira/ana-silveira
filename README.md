@@ -1,13 +1,11 @@
 ### Oi, tudo bom? 👋<br>
-Meu nome é <strong>Ana Carolina</strong> e este é o meu GitHub🙋 <br>
+Meu nome é <strong>Ana Carolina</strong> e este é o meu GitHub🙋 Reúno alguns projetos que desenvolvi com finalidades tanto acadêmicas quanto profissionais. <br>
 
 <div align="center">
   <a href="https://github.com/ana-silveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ana-silveira&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-silveira&layout=compact&langs_count=7&theme=onedark"/></a>
 </div>
-
-  Nele estão alguns projetos que desenvolvi com finalidades tanto acadêmicas quanto profissionais.<br>
 
 ---
 <div>
@@ -18,12 +16,7 @@ A partir de 2022, intensifiquei meus estudos de linguagens e paralelamente inici
 - 🌱 Tenho me dedicado atualmente a estudos de linguagem **JAVA**, e um pouco de **Javascript** de vez em quando. <br>
 - ⚡ Fun fact: Minha história como dev começou com HTML e CSS na adolescência, de maneira autodidata para criação e manutenção de blogs e sites - um hobbie tão antigo quanto o já descontinuado Microsoft Front Page 👵; Mantive desta forma um blog pessoal por alguns anos, com conteúdos de games, animes e mangás preferidos. Ingressei na Faculdade de Farmácia em 2009, me formei e trabalhei em hospitais até 2020, quando decidi resgatar meu antigo entusiasmo por <strong>tecnologia</strong> e retornar a estudos de linguagens de programação.<br>
 </div>
-
-
----
-
-<div style="display: inline_block"><br>
-🔮 Conheço:
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Ana-JAVA" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/>
   <img align="center" alt="Ana-C" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg"/>
   <img align="center" alt="Ana-JS" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -33,6 +26,10 @@ A partir de 2022, intensifiquei meus estudos de linguagens e paralelamente inici
   <img align="center" alt="Ana-Flutter" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 </div>
 <br>
+
+
+---
+
 
 <div align="center"> 
   <a href="https://instagram.com/4na.carolin4" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
