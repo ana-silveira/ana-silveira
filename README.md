@@ -13,7 +13,7 @@ Meu nome é <strong>Ana Carolina</strong> e este é o meu GitHub🙋 Reúno algu
 Atualmente estou em *transição de carreira* para me tornar uma <strong>desenvolvedora</strong>. Em 2021 atuei como analista de sistemas para uma conceituada empresa fornecedora de software de saúde e diagnóstico, período em que defini meu novo <em>propósito</em> e dei a guinada em minha <em>jornada profissional</em> para a TI.<br>
 A partir de 2022, intensifiquei meus estudos de linguagens e paralelamente iniciei curso Superior em <em>Tecnologia em Análise e Desenvolvimento de Sistemas</em> para aprofundar meus conhecimentos. 🚀  <br>
 - 😄 Pronomes: ela/dela </br>
-- 🌱 Tenho me dedicado atualmente a estudos de linguagem **JAVA**, e um pouco de **Javascript** de vez em quando. <br>
+- 🌱 Tenho me dedicado atualmente a estudos de linguagem **JAVA** e **Javascript**.<br>
 - ⚡ Fun fact: Minha história como dev começou com HTML e CSS na adolescência, de maneira autodidata para criação e manutenção de blogs e sites - um hobbie tão antigo quanto o já descontinuado Microsoft Front Page 👵; Mantive desta forma um blog pessoal por alguns anos, com conteúdos de games, animes e mangás preferidos. Ingressei na Faculdade de Farmácia em 2009, me formei e trabalhei em hospitais até 2020, quando decidi resgatar meu antigo entusiasmo por <strong>tecnologia</strong> e retornar a estudos de linguagens de programação.<br>
 </div>
 <div align="center" style="display: inline_block"><br>
