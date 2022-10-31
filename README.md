@@ -1,13 +1,11 @@
 ### Oi, tudo bom? 👋<br>
 Meu nome é <strong>Ana Carolina</strong> e este é o meu GitHub🙋 Reúno alguns projetos que desenvolvi com finalidades tanto acadêmicas quanto profissionais. <br>
 
-<div align="center">
+<!--<div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ana-silveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ana-silveira&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-
-<!--  
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ana-silveira&theme=redical&custom_title=%20Monitoramento%20de%20commits&radius=1)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 
