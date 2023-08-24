@@ -5,11 +5,11 @@ Meu nome é <strong>Ana Carolina</strong> e reúno aqui alguns projetos que dese
 
 ---
 <div>
-- 💬  Venho de uma formação prévia como farmacêutica hospitalar, tendo eventualmente trabalhado como analista de sistemas em uma conceituada empresa de software de saúde voltado para serviços hospitalares. Desde então tive meus primeiros contatos com desenvolvimento, QA, banco de dados e metodologias ágeis, o que motivou minha transição de carreira para a Tecnologia. <br>
-- 😄 Pronomes: ela/dela </br>
-- 🌱 Tenho me dedicado atualmente a estudos em Python, desenvolvimento de sistemas, Machine Learning e IAs .<br>
+- 💬  Venho de uma formação prévia como farmacêutica hospitalar, tendo eventualmente trabalhado como analista de sistemas em uma conceituada empresa de software de saúde voltado para serviços hospitalares. <br>
+  Desde então tive meus primeiros contatos com desenvolvimento, QA, banco de dados e metodologias ágeis, o que motivou minha transição de carreira para a Tecnologia. <br>
+- 🌱 Tenho me dedicado atualmente a estudos em Python e SQL. <br>
 - 🔭 Trabalhando atualmente na área de Operações - Business Analytics da Accenture Brasil <br>
-- ⚡ Fun fact: Minha história como dev começou com HTML e CSS na adolescência, de maneira autodidata. Tive um blog pessoal por alguns anos com conteúdos de games, animes e mangás preferidos. <br>  
+- ⚡ Fun fact: Minha história como dev começou com HTML e CSS na adolescência, bem autodidata. Tive um blog pessoal por alguns anos com conteúdos de games, animes e mangás preferidos, hobbies que me acompanham desde a minha adolescência até hoje. <br>  
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Ana-JAVA" height="25" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"/>
