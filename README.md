@@ -1,5 +1,5 @@
 ### Oi, tudo bom? 👋<br>
-Meu nome é <strong>Ana Carolina</strong> e reúno aqui alguns projetos que desenvolvi com finalidades tanto acadêmicas quanto profissionais. <br>
+Meu nome é <strong>Ana Carolina</strong> e reúno aqui projetos com finalidades acadêmicas e profissionais. <br>
 
 <!--  -->
 
