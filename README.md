@@ -5,11 +5,10 @@ Meu nome é <strong>Ana Carolina</strong> e reúno aqui alguns projetos que dese
 
 ---
 <div>
-- 💬 Sou iniciante com interesse em desenvolvimento de sistemas, Machine Learning e IAs. Venho me dedicando ao estudo de Python voltado para desenvolvimento, automação e análise de dados. No momento, trabalho na área de Business Analytics e venho adquirindo também experiência na criação e manipulação de dashboards com PowerBI. Também conheço JAVA, com foco dedicado na integração de APIs e utilizando SpringBoot, Postman e protocolo HTTP.
-Venho de uma formação prévia como farmacêutica hospitalar, tendo eventualmente trabalhado como analista de sistemas em uma conceituada empresa de software de saúde voltado para serviços hospitalares. Desde então tive meus primeiros contatos com desenvolvimento, QA, banco de dados e metodologias ágeis, o que motivou minha transição de carreira para a Tecnologia. <br>
+- 💬  Venho de uma formação prévia como farmacêutica hospitalar, tendo eventualmente trabalhado como analista de sistemas em uma conceituada empresa de software de saúde voltado para serviços hospitalares. Desde então tive meus primeiros contatos com desenvolvimento, QA, banco de dados e metodologias ágeis, o que motivou minha transição de carreira para a Tecnologia. <br>
 - 😄 Pronomes: ela/dela </br>
 - 🌱 Tenho me dedicado atualmente a estudos em Python, desenvolvimento de sistemas, Machine Learning e IAs .<br>
-- 🔭 Trabalhando atualmente na Accenture Brasil <br>
+- 🔭 Trabalhando atualmente na área de Operações - Business Analytics da Accenture Brasil <br>
 - ⚡ Fun fact: Minha história como dev começou com HTML e CSS na adolescência, de maneira autodidata. Tive um blog pessoal por alguns anos com conteúdos de games, animes e mangás preferidos. <br>  
 </div>
 <div align="center" style="display: inline_block"><br>
