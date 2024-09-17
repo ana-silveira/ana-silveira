@@ -6,7 +6,7 @@ Meu nome é <strong>Ana Carolina</strong> e reúno aqui projetos com finalidades
 ---
 <div>
 - 💬 
-- 🌱 Tenho me dedicado atualmente a estudos em SQL, PowerBI, Python e IAs. <br>
+- 🌱 Tenho me dedicado atualmente a estudos em SQL, Python e IAs. <br>
 - 🔭 Analista de BI na área de Operações - Business Analytics da Accenture Brasil <br>
 - ⚡ Fun fact: Tenho formação prévia como Farmacêutica Hospitalar, e comecei minha transição de carreira em 2022 para a área de Tecnologia. <br>  
 </div>
